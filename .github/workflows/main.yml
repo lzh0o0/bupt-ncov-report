@@ -2,7 +2,7 @@ name: Automatically submit the 2021-nCoV report sheet of BUPT
 
 on:
   schedule:
-    - cron: "10/10 16 * * *"
+    - cron: "10/10 17 * * *"
   push:
 
 jobs:
